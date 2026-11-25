@@ -7,6 +7,8 @@ def main():
     """Shows the welcome message."""
     # Print a welcome message for the user
     print("Welcome to the Discovery Call Scorer!")
+    # Print instructions telling the user how to answer
+    print("Answer each question about your call with yes or no.")
 
 # Run main only when this file is run directly
 if __name__ == "__main__":
